@@ -9,17 +9,17 @@ src
 |----main.ts
 |----vendor.ts
 |----polyfills.ts
-|----public
-    |----css
-        |----styles.css
-    |----images
-        |----favicon.png
 |----app
     |----app.component.ts 
     |----app.component.html 
     |----app.component.css 
     |----app.component.spec.ts
     |----app.module.ts
+public
+|----css
+    |----styles.css
+|----images
+    |----favicon.png
 
 ``` 
 
