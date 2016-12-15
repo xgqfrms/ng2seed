@@ -25,7 +25,14 @@ public
 
 ```codes
 dist
-|----???
+|----index.html
+|----main.bundle.js
+|----inline.bundle.js
+|----styles.bundle.js
+|----favicon.png
+|----main.bundle.map
+|----inline.bundle.map
+|----styles.bundle.map
 
 ``` 
 
