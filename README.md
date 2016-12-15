@@ -6,7 +6,7 @@ All guides and cookbooks have at least these core files.
 
 (app.component.ts, app.module.ts, main.ts)  
 
-![](img/)
+![](img/webpack-dir(Angular2-App).png)
 
 https://angular.io/docs/ts/latest/guide/setup.html
 
@@ -14,8 +14,9 @@ https://angular.io/docs/ts/latest/guide/setup.html
 
 ![ng2seed(app.component.ts, app.module.ts, main.ts).png](/img/ng2seed(app.component.ts, app.module.ts, main.ts).png)
 
-
 ![angular-tour-of-heroes(dir).png	](./img/angular-tour-of-heroes(dir).png	)
+
+![](img/Behavior-Driven Javascript(Jasmine).png	)
  
 
 
