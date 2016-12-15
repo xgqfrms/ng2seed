@@ -4,11 +4,13 @@
 ## Setup a local development environment  
 https://angular.io/docs/ts/latest/guide/setup.html  
 
-``code
+```code
+
 app
 |----app.component.ts
 |----app.module.ts
 |----main.ts
+
 ``` 
 
 
