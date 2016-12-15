@@ -26,6 +26,17 @@ https://angular.io/docs/ts/latest/cookbook/ts-to-js.html
 ``` 
 
 
+## Angular Testing   
+https://angular.io/docs/ts/latest/guide/testing.html  
+
+## Angular Style Guide  
+https://angular.io/docs/ts/latest/guide/style-guide.html  
+
+## Brief definitions of the most important words in the Angular vocabulary  
+https://angular.io/docs/ts/latest/glossary.html  
+
+## AoT  
+https://angular.io/docs/ts/latest/cookbook/aot-compiler.html  
 
 
 
