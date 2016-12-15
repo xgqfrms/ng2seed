@@ -1,5 +1,8 @@
 # configration  
 
++ https://github.com/angular/quickstart  
+
+
 ## SystemJS  
 > Inside the local development environment for SystemJS  
 https://angular.io/docs/ts/latest/guide/setup-systemjs-anatomy.html  
