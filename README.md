@@ -20,4 +20,12 @@ https://angular.io/docs/ts/latest/guide/setup.html
  
 
 
+## ng2seed
 
+
+G:\wwwRoot\ng2seed
+
+
+npm publish --tag stable
+
+!["private": true](./img/npm-publish-private-error.png)
